@@ -1,0 +1,73 @@
+.top{
+    background-color: #302515;
+}
+.font_small{
+	font-size: 0.8rem;
+}
+.top_px{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.item_bg{
+	background-color: #21190e;
+}
+.img_w{
+	width: 90%;
+}
+.my_hover:hover{
+	background-color: rgba(0,0,0,.12) !important;
+}
+#d1>li:hover>a{
+	background-color: #40260C;
+	border-color: #40260C;
+	text-decoration: none;
+	color: #fff;
+	display: block;
+}
+.page-item>.page-link{
+	border-radius: .20rem;
+	border-color: #fff;
+	background-color: transparent;
+}
+.pagination.disabled .page-item{
+	background-color: transparent;
+}
+.page-item.active .page-link{
+	background-color: #fff;
+	border-color: #fff;
+}
+.page-item>.page-link:hover{
+	border:1px  solid #40260C;
+}
+.border{
+	border: .5px dashed orange !important;
+}
+.top.border-bottom{
+	border-bottom: 1.5px solid #40260C !important;
+}
+.my_shadow{
+	box-shadow: 0 2px 2px 2px #000 inset;
+}
+.my_border_bottom{
+	border-bottom: .5px dotted #fff !important;
+}
+.my_bg1{
+	width:90%;height:1.2rem;
+	background: url(../images/divider-bg.png);
+}
+.border-left{
+	border-left:3px solid #E89E1A !important;
+}
+.text_color{
+	color: #813D02 !important;
+}
+.my_margin{
+	margin-right:20px ;
+	margin-bottom:20px;
+}
+.my_inp{
+	box-sizing: border-box;
+	background-color: #883e00;
+	border-color: #883e00;
+	border-radius: .35rem;
+}
